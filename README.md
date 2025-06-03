@@ -31,8 +31,8 @@ Dokumentasi ini dibuat otomatis oleh FastAPI menggunakan Swagger UI.
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/username/batikscan-api.git
-cd batikscan-api
+git clone https://github.com/VitoKa29/BatikScan_API.git
+cd BatikScan_API
 ```
 
 ---
